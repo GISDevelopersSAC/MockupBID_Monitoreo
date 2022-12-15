@@ -5,4 +5,4 @@
   
 - Aplicativo móvil:
 
-[Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version_03/index.html) Version 03
+  Version 03 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version_03/index.html)
