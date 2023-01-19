@@ -2,6 +2,13 @@
 
 ## PNSR
   Se lista las maquetas (mockup) que se tomaran en cuenta según el cronograma de desarrollo a implementar.
+  -------------------
+  
+  Version actual APP: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version/index.html)
+  
+  Version actual WEB: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb/index.html)
+  
+  -------------------
   
 - Aplicativo móvil:
 
