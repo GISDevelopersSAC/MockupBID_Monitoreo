@@ -16,3 +16,5 @@
 - Aplicativo web
 
   Version 05 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_05/index.html)
+  
+  Version 06 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_06/index.html)
