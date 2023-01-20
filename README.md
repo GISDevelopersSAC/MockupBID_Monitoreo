@@ -6,7 +6,7 @@
   
   Version actual APP: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version/index.html)
   
-  Version actual WEB: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb/index.html)
+  Version actual WEB: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/Version/index.html)
   
   -------------------
   
@@ -19,6 +19,8 @@
   Version 05 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version05/index.html)
   
   Version 06 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version06/index.html)
+  
+  Version 07 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version07/index.html)
 
 - Aplicativo web
 
@@ -27,3 +29,5 @@
   Version 05 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_05/index.html)
   
   Version 06 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_06/index.html)
+  
+  Version 07 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_07/index.html)
