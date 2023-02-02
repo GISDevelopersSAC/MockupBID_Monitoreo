@@ -24,6 +24,7 @@
   
   Version 08 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version08/index.html)
   
+  Version 09 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version09/index.html)
 
 - Aplicativo web
 
