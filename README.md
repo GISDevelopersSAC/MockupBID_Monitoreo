@@ -8,6 +8,11 @@
   
   Version actual WEB: [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/Version/index.html)
   
+  Version actual GIS: 
+  1/3 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_01_03.html)
+  2/3 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_02_03.html)
+  3/3 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_03_03.html)
+  
   -------------------
   
 - Aplicativo móvil:
