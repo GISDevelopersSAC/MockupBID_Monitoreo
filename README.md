@@ -10,11 +10,17 @@
   
   Version actual GIS: 
   
-  [Ver maqueta 1-3](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_01_03.html)
+  [Ver modelo de datos 1 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_01_06.html)
   
-  [Ver maqueta 2-3](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_02_03.html)
+  [Ver modelo de datos 2 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_02_06.html)
   
-  [Ver maqueta 3-3](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_03_03.html)
+  [Ver modelo de datos 3 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_03_06.html)
+  
+  [Ver modelo de datos 4 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_04_06.html)
+  
+  [Ver modelo de datos 5 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_05_06.html)
+  
+  [Ver modelo de datos 6 - 6](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/GIS/SIRWASH_06_06.html)
   
   
   -------------------
