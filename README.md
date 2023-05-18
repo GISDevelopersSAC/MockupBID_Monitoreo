@@ -27,6 +27,8 @@
   
 - Aplicativo móvil:
 
+  Version 01 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version01/index.html)
+
   Version 03 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version03/index.html)
   
   Version 04 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Movil/Version04/index.html)
@@ -47,6 +49,8 @@
 
 - Aplicativo web
 
+  Version 01 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_01/index.html)
+  
   Version 04 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_04/index.html)
   
   Version 05 [Ver maqueta](https://gisdeveloperssac.github.io/MockupBID_Monitoreo/Web/VersionWeb_05/index.html)
